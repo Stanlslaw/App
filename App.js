@@ -2,6 +2,12 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import nykon from './src/shishoya';
 
+export default function nykon() {
+  return(
+      <Text style={{fontSize: 40 + 'px', color: 'purple', textAlign: 'center'}}>Хуй</Text>
+  );
+}
+
 export default function App() {
   nykon();
   return (
