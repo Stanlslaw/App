@@ -4,7 +4,7 @@ import nykon from './src/shishoya';
 
 export default function nykon() {
   return(
-      <Text style={{fontSize: 40 + 'px', color: 'purple', textAlign: 'center'}}>Хуй</Text>
+      <Text style={{fontSize: 40 + 'px', color: 'purple', textAlign: 'center'}}>Я НИКОН ЧИГОЯ РАБОТАЮ 7 ДНЕЙ БЕЗ ВЫХОДНЫХ И ЗАРПЛАТЫ</Text>
   );
 }
 
