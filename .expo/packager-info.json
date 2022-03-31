@@ -1,9 +1,0 @@
-{
-  "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19000,
-  "expoServerNgrokUrl": "https://4e-fvp.anonymous.app.exp.direct",
-  "packagerNgrokUrl": "https://4e-fvp.anonymous.app.exp.direct",
-  "ngrokPid": 9440,
-  "webpackServerPort": 19006
-}
