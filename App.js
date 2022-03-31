@@ -1,6 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import nykon from './src/shishoya';
 
 export default function nykon() {
   return(
