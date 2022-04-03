@@ -10,7 +10,7 @@ function Nykon() {
 export default function App() {
   return (
     <View style={styles.container}>
-      <Nykon/>
+      <Nykon/>  
       <Text>Хуй</Text>
       <StatusBar style="auto" />
     </View>
