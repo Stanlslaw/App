@@ -1,16 +1,9 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-function Nykon() {
-  return(
-      <Text style={{fontSize: 40 + 'px', color: 'purple', textAlign: 'center'}}>Я НИКОН ЧИГОЯ РАБОТАЮ 7 ДНЕЙ БЕЗ ВЫХОДНЫХ И ЗАРПЛАТЫ</Text>
-  );
-}
-
 export default function App() {
   return (
     <View style={styles.container}>
-      <Nykon/>  
       <Text>Хуй</Text>
       <StatusBar style="auto" />
     </View>
