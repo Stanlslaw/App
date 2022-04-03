@@ -1,5 +1,749 @@
 [{
     "faculty":"fit",
     "kurs":"1",
-    "group"
+    "group":"1",
+    "sem":"1",
+    "sub":
+    [
+       [
+           [
+               [
+                {  
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                      "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                } 
+               ],
+               [
+                {  
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                      "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                } 
+               ],
+               [
+                {  
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                      "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                } 
+               ],
+               [
+                {  
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                      "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                } 
+               ],
+               [
+                {  
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                      "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                } 
+               ],
+               [
+                {  
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                      "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                } 
+               ],
+               [
+                {  
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                      "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                },
+                {
+                    "name":"",
+                    "type": "",
+                    "teacher":"",
+                    "room":""
+                } 
+               ]
+           ],
+           [
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ]
+           ]
+       ],
+       [
+        [
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ],
+            [
+             {  
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                   "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             },
+             {
+                 "name":"",
+                 "type": "",
+                 "teacher":"",
+                 "room":""
+             } 
+            ]
+        ],
+        [
+         [
+          {  
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+                "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          } 
+         ],
+         [
+          {  
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+                "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          } 
+         ],
+         [
+          {  
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+                "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          } 
+         ],
+         [
+          {  
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+                "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          } 
+         ],
+         [
+          {  
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+                "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          } 
+         ],
+         [
+          {  
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+                "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          } 
+         ],
+         [
+          {  
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+                "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          },
+          {
+              "name":"",
+              "type": "",
+              "teacher":"",
+              "room":""
+          } 
+         ]
+        ]
+       ]
+    ]
 }]
