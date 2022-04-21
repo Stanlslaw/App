@@ -6,6 +6,6 @@ Express   "npm i express"  Сервер для работы с БД
 
 Mongoose    "npm i mongoose" Библиотека для работы с БД MongoDb
 
-Nodemon    "mpm i nodemode"  Для отслеживания работы сервера в Live режиме
+Nodemon    "mpm i nodemon"  Для отслеживания работы сервера в Live режиме
 
 Concat   "npm i concurrently" Для запуска сервера и UI одновременно
